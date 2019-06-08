@@ -1,6 +1,8 @@
 # spotify-playlist-converter
 Convert your favourite Spotify-Playlists to Youtube-Playlists!
 
+![](spotify.gif)
+
 ## Instructions
 1. Make sure you have installed python on your system
 2. Create a spotify client_id and client_secret (https://developer.spotify.com/dashboard/applications)
@@ -9,7 +11,7 @@ Convert your favourite Spotify-Playlists to Youtube-Playlists!
 5. Follow the setup instructions and enjoy your converted spotify playlists!
 
 ## Change your clients or accounts
-1. Create an empty json object inside the `/config/config.json` or `/config/google_auth.json`/`/config/spotify_auth.json` file and restart the converter!
+1. Create an empty json object inside the `/config/config.json` or `/config/google_auth.json` / `/config/spotify_auth.json` file and restart the converter!
 2. Follow the setup instructions!
 
 ## Warning
