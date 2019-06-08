@@ -1,0 +1,13 @@
+{
+  "spotify": {
+    "client_id": null,
+    "client_secret": null,
+    "redirect_uri": null
+  },
+  "google": {
+    "api_key": null,
+    "client_id": null,
+    "client_secret": null,
+    "redirect_uri": null
+  }
+}
