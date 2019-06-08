@@ -10,9 +10,5 @@ Convert your favourite Spotify-Playlists to Youtube-Playlists!
 4. Run `pip install -r requirements.txt` inside the cloned repository
 5. Follow the setup instructions and enjoy your converted spotify playlists!
 
-## Change your clients or accounts
-1. Create an empty json object inside the `/config/config.json` or `/config/google_auth.json` / `/config/spotify_auth.json` file and restart the converter!
-2. Follow the setup instructions!
-
 ## Warning
 Please keep in mind that the YouTube Data v3 API has a daily rate limit and you can only perform a certain amount of requests per day until the converter throws an error.
